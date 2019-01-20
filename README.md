@@ -7,4 +7,11 @@ A flower image classifier built on pytorch framework.
 * https://medium.com/r/?url=http%3A%2F%2Fwww.robots.ox.ac.uk%2F~vgg%2Fdata%2Fflowers%2F102%2Findex.html
 
 
+### Follow the instructions in the notebook to install the dependencies and run the code.
+Instructions for using Google Colab - https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+
+
+
+
 
